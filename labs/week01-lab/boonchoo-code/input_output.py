@@ -1,7 +1,14 @@
 # Exercise 1: Basic Input
 # Ask the user for their name and greet them
+<<<<<<< HEAD
 print("=== Exwrcise 1: Basic Input ===")
 user_name = input("What is your name ")
+=======
+print("=== Exercise 1: Basic Input ===")
+user_name = input("What is your name? ")
+print("Hello,", user_name, "!")
+print("Nice to meet you,", user_name)
+>>>>>>> upstream/main
 
 # Exercise 2: Input with Numbers
 # Note: input() always returns a string, so we need to convert to numbers
